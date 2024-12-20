@@ -1,7 +1,5 @@
 
 //code from Ganesh Solapure  
-//mail: solapuregd@gmail.com
-
 //components used : 1arduino nano, 3LEDs, 1Push button
 
 //including libraries
