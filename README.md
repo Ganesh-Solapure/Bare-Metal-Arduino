@@ -1,6 +1,3 @@
-# Bare-Metal-Arduino
-d.
-
 # LED Pattern Using External Interrupt (Bare-Metal Programming)
 
 This task demonstrates bare-metal programming on an ATmega328P microcontroller to create an LED pattern controlled by an external interrupt. The code is written in C using register-level programming, providing a deeper understanding of microcontroller operations.
